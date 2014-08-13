@@ -9,11 +9,11 @@ How to use?
 
 At first it is needed to setup FTP host, user name, password, local source and FTP target directory.
 
-HOST="HOSTNAME.tld"
-USERNAME="USERNAME"
-PASSWD="PASSWORD"
-TARGET1="/application"
-SOURCE1="/home/user/application"
+`HOST="HOSTNAME.tld"`
+`USERNAME="USERNAME"`
+`PASSWD="PASSWORD"`
+`TARGET1="/application"`
+`SOURCE1="/home/user/application"`
 
 Running script is easy. Just type "sh updateapp.sh" 
 
